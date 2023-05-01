@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b767f89b1c93447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra 2/Trig/Trigonometry Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f46d8af2723f39",
+            "id": "f18ef8c83800293d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f18ef8c83800293d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94f46d8af2723f39",
+  "active": "f18ef8c83800293d",
   "lastOpenFiles": [
+    "Algebra 2/Trig/Law of Sines and Cosines.md",
+    "Algebra 2/Trig/Solving Trig Problems.md",
+    "Algebra 2/Trig/Trigonometry Vocabulary.md",
     "Notes/Algebra 2/Trig/Trigonometry Vocabulary.md",
     "Notes/Algebra 2/Trig/Trigonometric Ratios.md",
     "Notes/Algebra 2/Trig/The Pythagorean Identity.md",
@@ -183,10 +165,7 @@
     "Notes/Algebra 2/Statistics",
     "Notes/Algebra 2",
     "Notes",
-    "Algebra 2/Trig/Law of Sines and Cosines.md",
-    "Algebra 2/Trig/Solving Trig Problems.md",
     "Algebra 2/Trig/Trigonometric Ratios.md",
-    "Algebra 2/Trig/Trigonometry Vocabulary.md",
     "Algebra 2/Trig/Key Features of a Trig Function.md",
     "Algebra 2/Statistics/Basic Statistics Vocabulary.md",
     "Algebra 2/Trig/Converting Between Radians and Degrees.md",

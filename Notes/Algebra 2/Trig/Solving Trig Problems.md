@@ -31,7 +31,7 @@
 		 $-\frac{4}{5}$
 	* Note that if $\theta$ was in quadrant $1$ or $2$ the answer would be positive
 
-- Solving a triangle with law of cosines. ([[Law of Sines and Cosines]])
+- Solving a triangle with law of sines/cosines. ([[Law of Sines and Cosines]])
  ![[solve_triangle_with_cosines.png]]
 	1. replace the known variables in the law of cosines. ($a^{2} + b^{2} - 2ab\cos(C) = c^{2}$)
 		$8^{2}+11^{2}-2(8)(11)\cos(37\degree) = c^{2}$
@@ -43,4 +43,14 @@
 		$64 + 121 - 176(0.798) = 44.44... = c^{2}$
 	5. Find the Square root of $44.44$ to approximate $c$.
 		$\sqrt{44.44} \approx 6.67 \approx c$
+	6. Since we have side $c$ we can use the law of sines to find $A$ and $B$.
+		$\frac{\sin(37)}{6.67}=\frac{\sin(B)}{11}$
+	7. Multiply both sides by $11$ to get $sin(B)$ by itself.
+		$11\left( \sin\left( \frac{37}{6.67} \right) \right) = \sin(B)$
+	8. Calculate the left side of the equation.
+		$11\left( sin\left( \frac{37}{6.67} \right) \right) = .99$
+	9.  Take the $.99$ of the answer to find the value of $B$.
+		$\arcsin(.99)\approx82.98\degree$
+	10. Add together the two angles we have, then subtract from $180$ to find the final angle.
+		$180\degree-(37\degree+82.98\degree)= 60.02\degree$
 
