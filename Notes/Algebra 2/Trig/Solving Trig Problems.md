@@ -17,7 +17,7 @@
 
 -  What is the $\sin$ of $\theta$ if $\cos \theta =-\frac{3}{5}$ and the angle with measure $\theta$ is in Quadrant three?
 
-	1. Using the [[The Pythagorean Identity]] we know that:
+	1. Using the ![[The Pythagorean Identity]] we know that:
 		 $\sin^{2}(\theta) + \left( -\frac{3}{5} \right)^{2} = 1$
 	2. Simplify $\left( -\frac{3}{5} \right)^{2}$.
 		 $\sin^{2}(\theta) + \frac{9}{25} = 1$
