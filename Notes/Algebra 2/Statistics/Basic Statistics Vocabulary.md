@@ -17,3 +17,12 @@
 	- Numerical
 		Describes a counted or measured value
 
+- Standard Deviation ($\sigma$)
+	A measure of how much the values in a data set vary and deviate from the mean ($\mu$)
+- Normal Distribution
+	A model where the center point is the mean, and either side of the mean is symmetric.
+	More results should be close to the mean than farther away.
+- Emperical Rule
+	Shows that in a normal distribution 68% of the population falls within $1 \sigma$, 95% fall within $2 \sigma$, and 99.7% fall within $3 \sigma$.
+- 5-Number Summary
+	a 5-number summary includes the min, max, median, 1st quartile, and 3rd quartile.
