@@ -8,7 +8,7 @@
 - Asymptote
   A line that a function gets infinitely close to but never touches.
 - Logarithmic Function
-  Inverse of the Exponential Function, Denoted as $\log_2(x)$, where $2$ is the base.
+  Inverse of the Exponential Function, denoted as $\log_2(x)$, where $2$ is the base.
 - Product Rule
   $\log_2(4 * 8) = \log_2(4)*\log_2(8)$.
 - Common Log
