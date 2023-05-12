@@ -1,6 +1,8 @@
 #Logarithms
 #Vocab
 
+- Euler's Number ($e$)
+  The number $e$ is an irrational number that is approximately equal to $2.7$. 
 - Exponential Function
   $b^{x}$ is the parent exponential function.
 - Exponential Growth
