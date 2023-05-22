@@ -25,4 +25,11 @@
 - Emperical Rule
 	Shows that in a normal distribution 68% of the population falls within $1 \sigma$, 95% fall within $2 \sigma$, and 99.7% fall within $3 \sigma$.
 - 5-Number Summary
-	a 5-number summary includes the min, max, median, 1st quartile, and 3rd quartile.
+	A 5-number summary includes the min, max, median, 1st quartile, and 3rd quartile.
+## Probability 
+
+- Mutually Exclusive
+        Two events are mutually exclusive when they can not happen at the same time.
+ 	
+	
+	
