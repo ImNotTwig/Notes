@@ -30,6 +30,13 @@
 
 - Mutually Exclusive
         Two events are mutually exclusive when they can not happen at the same time.
- 	
-	
-	
+- Independent Event
+        An event that does not rely or depend on another event to happen.
+- Fundamental Counting Principal
+        The product of each value of options. e.g: $4$ types of pants $* 3$ types of shirts $= 12$ different combinations.	
+- Permutation
+        An arrangement of some or all items of a set in a specific order.
+- Combination
+        An arrangement of some or all items of a set in a non-specific order.	
+- Compliment of an Event
+        Anything that the event does not encompass.	
